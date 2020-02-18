@@ -14,7 +14,7 @@
     "@atom/fuzzy-native": "^1.1.2",
     "humanize-plus": "~1.8.2",
     "minimatch": "~3.0.3",
-    "temp": "~0.8.1",
+    "temp": "~0.9.1",
     "underscore-plus": "^1.7.0",
     "vscode-ripgrep": "^1.2.5",
     "wrench": "^1.5"
