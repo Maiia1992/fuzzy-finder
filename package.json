@@ -6,7 +6,7 @@
   "repository": "https://github.com/atom/fuzzy-finder",
   "license": "MIT",
   "dependencies": {
-    "async": "0.2.6",
+    "async": "3.1.1",
     "atom-select-list": "^0.7.0",
     "fs-plus": "^3.0.0",
     "fuzzaldrin": "^2.0",
@@ -16,7 +16,7 @@
     "minimatch": "~3.0.3",
     "temp": "~0.8.1",
     "underscore-plus": "^1.7.0",
-    "vscode-ripgrep": "^1.2.5",
+    "vscode-ripgrep": "^1.6.1",
     "wrench": "^1.5"
   },
   "devDependencies": {
